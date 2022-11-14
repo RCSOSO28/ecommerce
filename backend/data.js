@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: "1",
       name: "Nike slim shirt",
       slug: "nike-slim-shirt",
       category: "Shirts",
@@ -10,6 +11,7 @@ const data = {
       image: "https://static.dafiti.com.co/p/nike-7576-1447291-1-product.jpg",
     },
     {
+      _id: "2",
       name: "Adidas slim shirt",
       slug: "adidas-slim-shirt",
       category: "Shirts",
