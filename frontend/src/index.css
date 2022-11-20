@@ -43,3 +43,7 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.img-thumbnail {
+  height: 80px;
+}
