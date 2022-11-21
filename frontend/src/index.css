@@ -47,3 +47,7 @@ main {
 .img-thumbnail {
   height: 80px;
 }
+
+.navbar-custom {
+  background-color: rgb(139, 0, 139);
+}

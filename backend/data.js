@@ -17,7 +17,7 @@ const data = {
       category: "Shirts",
       price: 150,
       brand: "Adidas",
-      countInStock: 0,
+      countInStock: 3,
       image:
         "https://static.dafiti.com.co/p/adidas-performance-5227-1414091-1-product.jpg",
     },
